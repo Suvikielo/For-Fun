@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gym App</string>
+    <string name="Welcome">Welcome to (Name of App)</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="chooseClass">Choose this Class</string>
+    <string name="seeDescription">View Description</string>
+    <string name="home">Home Screen</string>
+
+    <string name="slide_1_title">Mage Class</string>
+    <string name="slide_2_title">Barbarian Class</string>
+    <string name="slide_3_title">Rogue Class</string>
+    <string name="slide_4_title">Ranger Class</string>
+
+</resources>
